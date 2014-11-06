@@ -10,4 +10,4 @@ https://github.com/TeehanLax/Hyperlapse.js/
 
 Please note that this is a project is just for recreation and I do not have complete information regarding google's policys regarding this.Please use at your own risk.
 
-http://s3.amazonaws.com/challengepost/photos/production/software_photos/000/151/593/datas/xlarge.png?1407603653
+![alt tag](http://s3.amazonaws.com/challengepost/photos/production/software_photos/000/151/593/datas/xlarge.png?1407603653) 
